@@ -1,0 +1,23 @@
+MODEL CARD / LICENCE SOURCES CHECKED ON 2026-09-30
+
+Qwen3-4B
+Hugging Face model card:
+https://huggingface.co/Qwen/Qwen3-4B
+Ollama:
+https://ollama.com/library/qwen3:4b
+
+Gemma 3 4B
+Google model card:
+https://ai.google.dev/gemma/docs/core/model_card_3
+Gemma Terms of Use:
+https://ai.google.dev/gemma/terms
+Ollama:
+https://ollama.com/library/gemma3:4b
+
+Llama 3.2 3B
+Meta model card:
+https://github.com/meta-llama/llama-models/blob/main/models/llama3_2/MODEL_CARD.md
+Llama 3.2 licence:
+https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct/blob/main/LICENSE.txt
+Ollama:
+https://ollama.com/library/llama3.2

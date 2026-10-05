@@ -1,0 +1,23 @@
+# Environment files
+.env
+**/.env
+
+# Virtual environments
+.venv/
+**/.venv/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+
+# Python compiled files
+*.pyc
+
+# Old repository backup
+.git_old/
+
+# Standalone Day 6 repository
+day6_task/
+
+# Reference files
+reference/

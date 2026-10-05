@@ -1,0 +1,5 @@
+TO BE CAPTURED ON THE ACTUAL MACHINE
+Run:
+    ollama list
+Save the terminal screenshot here as screenshots/ollama_list.png
+The Day 4 instructions require actual installed-model evidence; this file is a placeholder until the local command is run.

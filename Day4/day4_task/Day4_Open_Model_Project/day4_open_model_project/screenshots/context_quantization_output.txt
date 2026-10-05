@@ -1,0 +1,18 @@
+DAY 4 CONTEXT / QUANTIZATION OBSERVATION
+Memory budget: 6.0 GB
+
+A. Change context, keep Q4 fixed
+   Context  Weights GB      KV GB   Total GB   Fits?
+      2048         2.01       0.30       2.54    True
+      4096         2.01       0.60       2.87    True
+      8192         2.01       1.21       3.54    True
+     16384         2.01       2.42       4.88    True
+
+B. Change quantization, keep 8K context
+     Quant  Weights GB      KV GB   Total GB   Fits?
+        Q2         1.00       1.21       2.43    True
+        Q3         1.51       1.21       2.99    True
+        Q4         2.01       1.21       3.54    True
+        Q5         2.51       1.21       4.09    True
+        Q6         3.01       1.21       4.64    True
+        Q8         4.02       1.21       5.75    True

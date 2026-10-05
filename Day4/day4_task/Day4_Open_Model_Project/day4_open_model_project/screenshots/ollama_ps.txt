@@ -1,0 +1,5 @@
+TO BE CAPTURED ON THE ACTUAL MACHINE
+Run:
+    ollama ps
+Save the terminal screenshot here as screenshots/ollama_ps.png
+The Day 4 instructions require actual running-model evidence; this file is a placeholder until the local command is run.

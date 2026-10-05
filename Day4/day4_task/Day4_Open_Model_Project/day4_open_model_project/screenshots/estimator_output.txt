@@ -1,0 +1,8 @@
+DAY 4 MEMORY ESTIMATOR
+Available memory budget: 6.0 GB
+Assumed KV precision: FP16 (2 bytes/value); runtime overhead: 10%
+Model                         Params  Prec    Ctx Weights      KV   Total Fits
+Qwen3-4B Q4, 4K                 4.02B    Q4   4096    2.01    0.60    2.87 YES
+Qwen3-4B Q4, 8K                 4.02B    Q4   8192    2.01    1.21    3.54 YES
+Qwen3-4B Q4, 16K                4.02B    Q4  16384    2.01    2.42    4.88 YES
+Qwen3-4B Q8, 8K                 4.02B    Q8   8192    4.02    1.21    5.75 YES
