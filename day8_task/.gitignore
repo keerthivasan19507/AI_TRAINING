@@ -1,0 +1,8 @@
+# Secrets and local vector database
+.env
+chroma_db/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
